@@ -1,4 +1,4 @@
-# Data-Structure-Algorithm-C-
-realise basic data structure (heap, tree, stack etc.) by using ADT in C 
-# heap ADT
-realise the basic operation of heap : insert, delete, fixup, fixdown
+# Data-Structure-Algorithm-C
+All common data structure in C
+# Heap
+Including max_heap and min_heap, realize it with static array
